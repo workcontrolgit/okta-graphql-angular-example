@@ -28,6 +28,7 @@
     "@okta/jwt-verifier": "0.0.13",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
+    "event-stream": "^4.0.1",
     "express": "^4.16.4",
     "express-bearer-token": "^2.2.0",
     "express-graphql": "^0.6.12",
